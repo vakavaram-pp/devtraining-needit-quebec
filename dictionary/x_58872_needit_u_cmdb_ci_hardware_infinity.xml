@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_hardware" label="Infinity" max_length="40" name="x_58872_needit_u_cmdb_ci_hardware_infinity" sizeclass="0" type="collection"/>
+</database>

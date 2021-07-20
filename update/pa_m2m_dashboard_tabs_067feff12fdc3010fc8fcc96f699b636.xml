@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Vik's dashboard">edfe6bf12fdc3010fc8fcc96f699b6a2</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 13:43:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>067feff12fdc3010fc8fcc96f699b636</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>edfe6bf12fdc3010fc8fcc96f699b6a2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Mars Lander Spoke" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Mars Lander Spoke">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_067feff12fdc3010fc8fcc96f699b636</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 13:43:14</sys_updated_on>
+        <tab display_value="Vik's dashboard - New Tab">c67feff12fdc3010fc8fcc96f699b633</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
